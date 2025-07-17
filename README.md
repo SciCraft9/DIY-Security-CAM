@@ -51,13 +51,6 @@ Power the setup using 2 × 18650 batteries or any 5V power source.
 
 Receive photo alerts on Telegram when motion is detected.
 
-📂 Files in This Repo
-ESP32-CAM-Telegram.text – ESP32-CAM CODE
-
-circuit_diagram.png – Wiring diagram
-
-README.md – This file
-
 📺 Full Tutorial Video
 Check out the full step-by-step guide on YouTube:
 👉 Watch Video
