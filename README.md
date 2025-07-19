@@ -53,4 +53,4 @@ Receive photo alerts on Telegram when motion is detected.
 
 📺 Full Tutorial Video
 Check out the full step-by-step guide on YouTube:
-👉 Watch Video
+👉 Watch Video : https://youtu.be/mdaM53qIYgk
